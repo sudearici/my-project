@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+# macOS system files
+.DS_Store
+Library/
+Applications/
+Desktop/
+Documents/
+Downloads/
+
+# Python virtual environments
+.venv/
+
+
